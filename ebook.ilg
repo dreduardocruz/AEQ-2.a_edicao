@@ -1,6 +1,6 @@
-This is makeindex, version 2.15 [MiKTeX 2.9.7300 64-bit] (kpathsea + Thai support).
-Scanning input file ebook.idx....done (665 entries accepted, 0 rejected).
-Sorting entries........done (6828 comparisons).
-Generating output file ebook.ind....done (387 lines written, 0 warnings).
+This is makeindex, version 2.15 [TeX Live 2018] (kpathsea + Thai support).
+Scanning input file ebook.idx....done (694 entries accepted, 0 rejected).
+Sorting entries........done (7258 comparisons).
+Generating output file ebook.ind....done (403 lines written, 0 warnings).
 Output written in ebook.ind.
 Transcript written in ebook.ilg.
